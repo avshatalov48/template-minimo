@@ -4,7 +4,7 @@
 - PSD: https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 
 ### Demo
-- http://shatalov.info/projects/minimo/
+- https://projects.shatalov.info/minimo/
 
 ### Используемые инструменты и технологии:
 - HTML
