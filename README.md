@@ -3,6 +3,9 @@
 - UI/UX Designer: Chiara Canderan (https://www.behance.net/chiaracanderan)
 - PSD: https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 
+### Demo
+- http://shatalov.info/projects/minimo/
+
 ### Используемые инструменты и технологии:
 - HTML
 - BEM (БЭМ)
